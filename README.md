@@ -9,10 +9,10 @@
 
 
 ## 1. Sentiment analysis of the wine reviews and correlating them with the provided ratings
-Please check ipnyb file for Question 1.
+Please check ipynb file for Question 1.
 
 ## 2. Comparing Wine Preferences Across Different Regions.  
-Please check ipnyb file for Question 2 and Question 2cont.
+Please check ipynb file for Question 2 and Question 2cont.
 
 ## 3. ⁠Wine recommendation system based on user preferences.    
-Please check ipnyb file for Question 3.
+Please check ipynb file for Question 3.
